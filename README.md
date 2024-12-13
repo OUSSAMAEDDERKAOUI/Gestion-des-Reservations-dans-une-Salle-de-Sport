@@ -13,9 +13,15 @@ Permettre aux membres de réserver des activités et équipements.
 
 Inscription, authentification et gestion des données des membres.
 
+![forme d'ajout](https://github.com/user-attachments/assets/c109ec30-8378-497b-8dbf-98ddfcca9e6c)
+
+
 - **Gestion des Activités :**
 
 Ajout, modification et suppression d'activités.
+
+![tableau de bord](https://github.com/user-attachments/assets/210cd9ee-fc69-4bda-b12f-409ee179379e)
+
 
 - **Réservation :**
 
