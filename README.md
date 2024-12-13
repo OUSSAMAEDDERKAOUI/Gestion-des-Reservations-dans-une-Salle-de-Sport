@@ -46,7 +46,13 @@ Système de réservation pour les membres, avec un affichage dynamique des rése
 ## Diagrammes :
 - **Diagramme ERD :** Modélisation de la base de données basée sur les entités et leurs relations.
 
+![Model databases](https://github.com/user-attachments/assets/55826198-3902-4c94-a5b6-6932a8eeb36e)
+
+
 - **Diagramme UML** (Cas d'utilisation) : Identification des acteurs (membres, administrateurs) et des interactions avec le système.
+
+![Use case diagram (1)](https://github.com/user-attachments/assets/885566a0-6bbc-41bf-8d18-18613eca6686)
+
 
 ## Configuration de l’Environnement
 
@@ -57,9 +63,9 @@ Système de réservation pour les membres, avec un affichage dynamique des rése
 
 ## Scripts SQL :
 
-- Création des tables nécessaires.
-- Scripts pour opérations d’insertion, de mise à jour et de suppression.
-- Jointures externe entre les tables.
+- Création des tables nécessaires. (voir script.sql )
+- Scripts pour opérations d’insertion, de mise à jour et de suppression. (voir script.sql )
+- Jointures externe entre les tables. (voir script.sql )
 ## Développement en PHP :
 - Formulaires pour ajouter des membres, activités et réservations.
 - Affichage dynamique des listes de membres, d'activités et de réservations.
