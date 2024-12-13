@@ -9,15 +9,15 @@ Permettre aux membres de réserver des activités et équipements.
 
 ## Fonctionnalités :
 
-**Gestion des Membres :**
+- **Gestion des Membres :**
 
 Inscription, authentification et gestion des données des membres.
 
-**Gestion des Activités :**
+- **Gestion des Activités :**
 
 Ajout, modification et suppression d'activités.
 
-**Réservation :**
+- **Réservation :**
 
 Système de réservation pour les membres, avec un affichage dynamique des réservations et activités disponibles.
 
