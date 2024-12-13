@@ -38,9 +38,9 @@ include ' database.php ';
                 <!-- Mobile Menu open: "block", Menu closed: "hidden" -->
                 <div class="absolute inset-x-0 z-20 w-full px-6 py-4 transition-all duration-300 ease-in-out bg-white dark:bg-gray-800 md:mt-0 md:p-0 md:top-0 md:relative md:bg-transparent md:w-auto md:opacity-100 md:translate-x-0 md:flex md:items-center">
                     <div class="flex flex-col md:flex-row md:mx-6">
-                        <a class="my-2 text-gray-700 transition-colors duration-300 transform  md:mx-4 md:my-0" href="http://localhost/Gestion-des-Reservations-dans-une-Salle-de-Sport/index.php">Home</a>
-                        <a class="my-2 text-gray-700 transition-colors duration-300 transform  md:mx-4 md:my-0" href="http://localhost/Gestion-des-Reservations-dans-une-Salle-de-Sport/reservations.php">Reservations</a>
-                        <a class="my-2 text-gray-700 transition-colors duration-300 transform  md:mx-4 md:my-0" href="http://localhost/Gestion-des-Reservations-dans-une-Salle-de-Sport/services.php">Services</a>
+                        <a class="my-2 font-bold text-gray-700 transition-colors duration-300 transform  md:mx-4 md:my-0" href="http://localhost/Gestion-des-Reservations-dans-une-Salle-de-Sport/index.php">Home</a>
+                        <a class="my-2 font-bold text-gray-700 transition-colors duration-300 transform  md:mx-4 md:my-0" href="http://localhost/Gestion-des-Reservations-dans-une-Salle-de-Sport/reservations.php">Reservations</a>
+                        <a class="my-2 font-bold text-gray-700 transition-colors duration-300 transform  md:mx-4 md:my-0" href="http://localhost/Gestion-des-Reservations-dans-une-Salle-de-Sport/affichage.php">Services</a>
                     </div>
 
                   
