@@ -1,6 +1,5 @@
 <?php
-include ' database.php '; 
-?>
+include 'database.php'; ?>
 <!DOCTYPE html>
 <html lang="en">
 
@@ -64,15 +63,15 @@ include ' database.php ';
     <main class="w-10/12 ml-auto mr-auto">
     <section class="bg-white dark:bg-gray-900">
     <div class="container px-6 py-8 mx-auto">
-        <h2 class="text-2xl font-semibold text-center text-gray-800 capitalize lg:text-3xl dark:text-white">Our Team</h2>
+        <h2 class="text-5xl text-[#0ea5e9] font-semibold text-center  font-bold capitalize ">Our Team</h2>
 
         <div class="grid gap-8 mt-8 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4">
             <div class="w-full max-w-xs text-center">
                 <img class="object-cover object-center w-full h-48 mx-auto rounded-lg" src="https://images.unsplash.com/photo-1493863641943-9b68992a8d07?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=739&q=80" alt="avatar" />
 
                 <div class="mt-2">
-                    <h3 class="text-lg font-medium text-gray-700 dark:text-gray-200">Ahmed Omer</h3>
-                    <span class="mt-1 font-medium text-gray-600 dark:text-gray-300">CEO</span>
+                    <h3 class="text-lg font-medium text-gray-700 dark:text-gray-200">Nicole Wilkins</h3>
+                    <span class="mt-1 font-medium text-gray-600 dark:text-gray-300">Bodybuilding et fitness</span>
                 </div>
             </div>
 
@@ -80,8 +79,8 @@ include ' database.php ';
                 <img class="object-cover object-center w-full h-48 mx-auto rounded-lg" src="https://images.unsplash.com/photo-1516756587022-7891ad56a8cd?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=334&q=80" alt="avatar" />
 
                 <div class="mt-2">
-                    <h3 class="text-lg font-medium text-gray-700 dark:text-gray-200">Jane Doe</h3>
-                    <span class="mt-1 font-medium text-gray-600 dark:text-gray-300">Co-founder</span>
+                    <h3 class="text-lg font-medium text-gray-700 dark:text-gray-200">Kayla Itsines</h3>
+                    <span class="mt-1 font-medium text-gray-600 dark:text-gray-300">Fitness et nutrition</span>
                 </div>
             </div>
 
@@ -89,8 +88,8 @@ include ' database.php ';
                 <img class="object-cover object-center w-full h-48 mx-auto rounded-lg" src="https://images.unsplash.com/photo-1492562080023-ab3db95bfbce?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=731&q=80" alt="avatar" />
 
                 <div class="mt-2">
-                    <h3 class="text-lg font-medium text-gray-700 dark:text-gray-200">Steve Ben</h3>
-                    <span class="mt-1 font-medium text-gray-600 dark:text-gray-300">UI/UX</span>
+                    <h3 class="text-lg font-medium text-gray-700 dark:text-gray-200">Jeff Nippard</h3>
+                    <span class="mt-1 font-medium text-gray-600 dark:text-gray-300">Musculation et fitness</span>
                 </div>
             </div>
 
@@ -98,8 +97,8 @@ include ' database.php ';
                 <img class="object-cover object-center w-full h-48 mx-auto rounded-lg" src="https://images.unsplash.com/photo-1517841905240-472988babdf9?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=334&q=80" alt="avatar" />
 
                 <div class="mt-2">
-                    <h3 class="text-lg font-medium text-gray-700 dark:text-gray-200">Patterson Johnson</h3>
-                    <span class="mt-1 font-medium text-gray-600 dark:text-gray-300">Software Engineer</span>
+                    <h3 class="text-lg font-medium text-gray-700 dark:text-gray-200">Chris Hemsworth</h3>
+                    <span class="mt-1 font-medium text-gray-600 dark:text-gray-300">Musculation et fitness</span>
                 </div>
             </div>
         </div>
@@ -108,38 +107,38 @@ include ' database.php ';
 
         <div class="grid gap-8 mt-8 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4">
             <div class="w-full max-w-xs text-center">
-                <img class="object-cover object-center w-full h-48 mx-auto rounded-lg" src="https://images.unsplash.com/photo-1493863641943-9b68992a8d07?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=739&q=80" alt="avatar" />
+                <img class="object-cover object-center w-full h-48 mx-auto rounded-lg" src="./images/téléchargement (1).webp" alt="avatar" />
 
                 <div class="mt-2">
-                    <h3 class="text-lg font-medium text-gray-700 dark:text-gray-200">Ahmed Omer</h3>
-                    <span class="mt-1 font-medium text-gray-600 dark:text-gray-300">CEO</span>
+                    <h3 class="text-lg font-medium text-gray-700 dark:text-gray-200">Joe Wicks</h3>
+                    <span class="mt-1 font-medium text-gray-600 dark:text-gray-300">Fitness et nutrition</span>
                 </div>
             </div>
 
             <div class="w-full max-w-xs text-center">
-                <img class="object-cover object-center w-full h-48 mx-auto rounded-lg" src="https://images.unsplash.com/photo-1516756587022-7891ad56a8cd?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=334&q=80" alt="avatar" />
+                <img class="object-cover object-center w-full h-48 mx-auto rounded-lg" src="./images/images.jpeg" alt="avatar" />
 
                 <div class="mt-2">
-                    <h3 class="text-lg font-medium text-gray-700 dark:text-gray-200">Jane Doe</h3>
-                    <span class="mt-1 font-medium text-gray-600 dark:text-gray-300">Co-founder</span>
+                    <h3 class="text-lg font-medium text-gray-700 dark:text-gray-200">Emily Skye</h3>
+                    <span class="mt-1 font-medium text-gray-600 dark:text-gray-300">Fitness et bien-être</span>
                 </div>
             </div>
 
             <div class="w-full max-w-xs text-center">
-                <img class="object-cover object-center w-full h-48 mx-auto rounded-lg" src="https://images.unsplash.com/photo-1492562080023-ab3db95bfbce?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=731&q=80" alt="avatar" />
+                <img class="object-cover object-center w-full h-48 mx-auto rounded-lg" src="./images/téléchargement.jpeg" alt="avatar" />
 
                 <div class="mt-2">
-                    <h3 class="text-lg font-medium text-gray-700 dark:text-gray-200">Steve Ben</h3>
-                    <span class="mt-1 font-medium text-gray-600 dark:text-gray-300">UI/UX</span>
+                    <h3 class="text-lg font-medium text-gray-700 dark:text-gray-200">Adam Wilkins</h3>
+                    <span class="mt-1 font-medium text-gray-600 dark:text-gray-300">Musculation et fitness</span>
                 </div>
             </div>
 
             <div class="w-full max-w-xs text-center">
-                <img class="object-cover object-center w-full h-48 mx-auto rounded-lg" src="https://images.unsplash.com/photo-1517841905240-472988babdf9?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=334&q=80" alt="avatar" />
+                <img class="object-cover object-center w-full h-48 mx-auto rounded-lg" src="./images/téléchargement.webp" alt="avatar" />
 
                 <div class="mt-2">
-                    <h3 class="text-lg font-medium text-gray-700 dark:text-gray-200">Patterson Johnson</h3>
-                    <span class="mt-1 font-medium text-gray-600 dark:text-gray-300">Software Engineer</span>
+                    <h3 class="text-lg font-medium text-gray-700 dark:text-gray-200">Chloe Ting</h3>
+                    <span class="mt-1 font-medium text-gray-600 dark:text-gray-300">Fitness</span>
                 </div>
             </div>
         </div>
