@@ -41,7 +41,11 @@
         echo '<td class="px-6 py-4 whitespace-nowrap text-center">'.$rows['Prenom']. '</td>';
         echo '<td class="px-6 py-4 whitespace-nowrap text-center">'.$rows['Email'].'</td>';
         echo '<td class="px-6 py-4 whitespace-nowrap text-center">'.$rows['Telephone'].'</td>';
-       
+        echo '<td class="px-6 py-4 whitespace-nowrap text-center">'.$rows['Nom_Activite'].'</td>';
+        echo '<td class="px-6 py-4 whitespace-nowrap text-center">'.$rows['Date_Reservation'].'</td>';
+      echo   '<td class="px-6 py-4 whitespace-nowrap text-center">';
+          echo '<span class="px-2 inline-flex text-xs leading-5 font-semibold rounded-full bg-green-100 text-green-800">'.$rows['Statut'].'</span>';
+        echo '</td>';
         echo '<td class="px-6 py-4 whitespace-nowrap">';
            echo '<button class="px-4 py-2 font-medium text-white bg-blue-600 rounded-md hover:bg-blue-500 focus:outline-none focus:shadow-outline-blue active:bg-blue-600 transition duration-150 ease-in-out">Edit</button>';
             echo '<a href="delete.php?id='.$id.'">';
