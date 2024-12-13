@@ -14,6 +14,3 @@ $conn = new mysqli("localhost", "root", "", "gestion_salle_sport");
 if ($conn->connect_error) {
     die("Erreur de connexion :  !!!!!!!!!!!!!!!!" . $conn->connect_error);
 }
-else {
-    echo"you are connected !!!";}
-    
